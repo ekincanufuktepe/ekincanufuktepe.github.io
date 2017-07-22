@@ -1,7 +1,7 @@
 # Ekincan Ufuktepe
 I am currently a Ph.D. candidate and a Research Assistant at Izmir Institute of Technology (IZTECH).
 
-Here are the lectures I have assisted and taught before.
+Here are the [lectures](prevLectures.md) I have assisted and taught before.
 
 2011-2012 - Spring
 - CENG112 - Data Structures
