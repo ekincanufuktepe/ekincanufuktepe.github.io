@@ -8,6 +8,6 @@
 **1.** Ufuktepe E., Tuglular T., Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution, Computer Software and Applications Conference Workshops (COMPSACW), 2016 IEEE 40th Annual
 
 # National Conferences
-**1.** Ufuktepe E., Tuglular T., JavaScript Kütüphaneleri için Girdi Doğrulama Analizi **(Translation: Input Validation Analysis for JavaScript Libraries)**, 9. Ulusal Yazılım Mühendisliği Sempozyumu, UYMS 2015 (Best Paper Award)
+**1.** Ufuktepe E., Tuglular T., JavaScript Kütüphaneleri için Girdi Doğrulama Analizi **(Translation: Input Validation Analysis for JavaScript Libraries)**, 9. Ulusal Yazılım Mühendisliği Sempozyumu, UYMS 2015 **(Best Paper Award)**
 
 **2.** Toksoy M., Sofuoğlu, S. C., Ekren O., Ufuktepe, E., Varlık N., Sınıflarda Havalandırma Debisinin Belirlenmesi **(Translation: Determining Ventilation in Classrooms )**, 12. Ulusal Tesisat Mühendisliği Kongresi, _Izmir, 2015
