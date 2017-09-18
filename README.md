@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-I am currently a Ph.D. candidate and a Research Assistant at Izmir Institute of Technology (IZTECH). You can also have a look at my [CV](CV/EkincanUFUKTEPE_CV.pdf) as well. | ![](/images/headshot.png){:height="380px" width="510px"} |
+I am currently a Ph.D. candidate and a Research Assistant at Izmir Institute of Technology (IZTECH). You can also have a look at my [CV](CV/EkincanUFUKTEPE_CV.pdf) as well. | ![](/images/headshot.png){:height="760px" width="1020px"} |
 
 Here are the [lectures](lectures/prevLectures.md) I have assisted and taught before.
 
