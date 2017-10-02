@@ -39,3 +39,8 @@
 ## 2016-2017 - Spring
 - CENG414 - Project Management
 - CENG431 - Building Software Systems (in Java Language)
+
+## 2017-2018 - Fall
+- CENG211 - Programming Fundamentals (in Java Language)
+- CENG313 - Operating Systems
+- CENG432 - Fundamentals of Enterprise Application Development
