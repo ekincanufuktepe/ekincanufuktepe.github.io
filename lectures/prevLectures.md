@@ -44,3 +44,9 @@
 - CENG211 - Programming Fundamentals (in Java Language)
 - CENG313 - Operating Systems
 - CENG432 - Fundamentals of Enterprise Application Development
+
+## 2017-2018 - Spring
+- CENG414 - Project Management
+- CENG431 - Building Software Systems (in Java Language)
+- CENG437 - Software Quality Management
+
