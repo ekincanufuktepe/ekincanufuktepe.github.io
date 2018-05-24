@@ -1,5 +1,5 @@
 # Journals
-**1.** _Ufuktepe E., Tuglular T._, Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks, Software Quality Journal, 2016
+**1.** _Ufuktepe E., Tuglular T._, Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks, Software Quality Journal, 2017
 
 # International Conferences
 
