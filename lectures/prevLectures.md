@@ -26,7 +26,7 @@
 - CENG437 - Software Quality Management
 
 ## 2015-2016 - Fall
-- CENG211 - Programming Basics (in Python Language)
+- CENG113 - Programming Basics (in Python Language)
 - CENG313 - Operating Systems
 
 ## 2015-2016 - Spring
@@ -47,6 +47,6 @@
 
 ## 2017-2018 - Spring
 - CENG414 - Project Management
-- CENG431 - Building Software Systems (in Java Language)
+- CENG431 - Building Software Systems (OOP - in Java Language)
 - CENG437 - Software Quality Management
 
