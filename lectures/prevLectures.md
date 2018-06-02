@@ -13,7 +13,7 @@
 - CENG313 - Operating Systems
 
 ## 2013-2014 - Spring
-- CENG211 - Concepts of Programming Languages 
+- CENG212 - Concepts of Programming Languages 
 - CENG214 - Logic Design
 
 ## 2014-2015 - Fall
