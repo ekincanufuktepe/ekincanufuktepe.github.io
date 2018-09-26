@@ -1,9 +1,9 @@
 # Journals
-**1.** _Ufuktepe E., Tuglular T._, Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks, Software Quality Journal, 2017 [PDF](publication/2018_QRS_camera-ready_A Program Slicing-based Bayesian Network Model for Change Impact Analysis.pdf)
+**1.** _Ufuktepe E., Tuglular T._, Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks, Software Quality Journal, 2017 [PDF]("publication/2017_Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks.pdf")
 
 # International Conferences
 
-**1.** _Ufuktepe E., Tuglular T._, A Program Slicing-based Bayesian Network Model for Change Impact Analysis, IEEE 18th International Conference on Software Quality, Reliability and Security (QRS), 2018 **(accepted)** [PDF]
+**1.** _Ufuktepe E., Tuglular T._, A Program Slicing-based Bayesian Network Model for Change Impact Analysis, IEEE 18th International Conference on Software Quality, Reliability and Security (QRS), 2018 **(accepted)** [PDF](publication/2018_QRS_camera-ready_A Program Slicing-based Bayesian Network Model for Change Impact Analysis.pdf)
 
 **2.** _Ufuktepe E., Tuglular T._, Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution, Computer Software and Applications Conference Workshops (COMPSAC), 2016 IEEE 40th Annual [PDF](publication/2016_COMPSAC_camera-ready_Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution.pdf)
 
