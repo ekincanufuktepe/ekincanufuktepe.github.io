@@ -3,7 +3,7 @@
 
 # International Conferences
 
-**1.** _Ufuktepe E., Tuglular T._, A Program Slicing-based Bayesian Network Model for Change Impact Analysis, IEEE 18th International Conference on Software Quality, Reliability and Security (QRS), 2018 [[PDF]](2018_QRS_camera_ready.pdf)
+**1.** _Ufuktepe E., Tuglular T._, A Program Slicing-based Bayesian Network Model for Change Impact Analysis, IEEE 18th International Conference on Software Quality, Reliability and Security (QRS), 2018 [[PDF]](2018_QRS_camera-ready.pdf)
 
 **2.** _Ufuktepe E., Tuglular T._, Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution, Computer Software and Applications Conference Workshops (COMPSAC), 2016 IEEE 40th Annual [[PDF]](2016_COMPSAC_camera_ready.pdf)
 
