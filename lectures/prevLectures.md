@@ -50,3 +50,6 @@
 - CENG431 - Building Software Systems (OOP - in Java Language)
 - CENG437 - Software Quality Management
 
+## 2018-2019 - Fall
+- CENG211 - Programming Fundamentals (in Java Language)
+- CENG313 - Operating Systems
