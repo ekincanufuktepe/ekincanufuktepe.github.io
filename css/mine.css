@@ -1,0 +1,64 @@
+div#main.grid_12 ol li {
+        margin-top: 1em;
+        margin-bottom: 1em;
+}
+
+#content-wrapper {
+        margin: 0 auto;
+        background: #fff url(../images/content-bg.gif) no-repeat center top;
+        padding-bottom: 35px;
+        padding-top: 5px;
+        overflow: auto;
+}
+
+table {
+        border-collapse: collapse;
+        margin: 0px;
+}
+tr { background: #fff; }
+tr.altrow { background: #F9F9F9;        }
+th, td {
+        text-align: left;
+        border-width: 0px;
+        border-style: solid;
+}
+th {
+        color: #7BA857;
+        background: #EFFAE6;
+        padding: .8em 1em;
+        border-color: #DFF4D5 #D3EFC3 #A7DF8A #D3EFC3;
+}
+td {
+        border-color: #EFEFEF;
+        padding: .7em 1em;
+}
+td.width {
+        border-color: #EFEFEF;
+        padding: .7em 1em;
+        width: 42px;
+}
+
+#header p#intro {
+        position: absolute;
+        margin: 0; padding: 0;
+        font-family: Georgia, 'Times New Roman', Times, Serif;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 1.6em;
+        font-style: italic;
+        letter-spacing: -.5px;
+        color: #7ba45b;
+        width: 400px;
+
+        /* change the values of top and left to adjust the position */
+        top: 175px; left: -60px;
+}
+
+#header #header-image {
+        position: absolute;
+        background: url(../Pics/maria.jpg) no-repeat;
+        width: 225px;
+        height: 300px;
+        right: 5px; top: 50px;
+
+}
