@@ -23,10 +23,10 @@ th, td {
         border-style: solid;
 }
 th {
-        color: #7BA857;
+        color: #800000;
         background: #EFFAE6;
         padding: .8em 1em;
-        border-color: #DFF4D5 #D3EFC3 #A7DF8A #D3EFC3;
+        border-color: #FFE1CC #FFBB99 #FF8566 #FFCCB3;
 }
 td {
         border-color: #EFEFEF;
