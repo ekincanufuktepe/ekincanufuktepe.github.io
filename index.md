@@ -44,20 +44,11 @@ Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., Determining Venti
 
 
 #### Theses
+Ufuktepe, E., Test Case Prioritization for Regression Testing Using Change Impact Analysis
+
+Ufuktepe, E., Measurement of JavaScript Applications’ Readiness to Untrusted Data Using Bayesian Networks
 
 
 ### Teaching  
 
-#### Winter 2019 (York):  
-
-#### Fall 2018 (York):  
-
-#### Winter 2018 (York):  
-
-#### Fall 2017 (York):  
-
-#### Winter 2017 (York):  
-
-#### Fall 2016 (York):  
-
-#### Sem 2, AY15/16 (NUS):  
+#### Fall 2020 (MU):  
