@@ -25,20 +25,20 @@ Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-au
 
 Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]]()
 
-Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018 [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular)
+Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018 [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular)
+Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness against Untrusted Data Using Bayesian Networks" (In Turkish), 7th International Conference on Information Security and Cryptology, ISC 2014 [[pdf]](/paper/2014_ISC_Ufuktepe_Tuglular)
+Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness against Untrusted Data Using Bayesian Networks" (In Turkish), 7th International Conference on Information Security and Cryptology, ISC 2014 [[pdf]](/paper/2014_ISC_Ufuktepe_Tuglular.pdf)
 
 
 #### Journal Papers
 Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation)
 
-Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular)
+Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf)
 
 #### National Conference Papers
-Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Ulusal Yazilim Muhendisligi Sempozyumu, UYMS 2015 (Best Paper) [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular)
+Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Ulusal Yazilim Muhendisligi Sempozyumu, UYMS 2015 (Best Paper) [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
 
 Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., "Determining Ventilation in Classrooms" (In Turkish), 12. Ulusal Tesisat Muhendisligi Kongresi, Izmir, 2015 [[pdf]]()
 
