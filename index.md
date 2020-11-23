@@ -19,11 +19,15 @@ author: Ekincan Ufuktepe
 
 #### Patents 
 
+Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, (Pending)
+
+Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: 2015-GE-492476 (Pending)
+
 #### International Conference and Workshop Papers
 
 Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020 [[pdf]]()
 
-Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]]()
+Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
 
 Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018 [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
 
@@ -35,7 +39,7 @@ Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness aga
 #### Journal Papers
 Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation)
 
-Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf)
+Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
 #### National Conference Papers
 Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Ulusal Yazilim Muhendisligi Sempozyumu, UYMS 2015 (Best Paper) [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
@@ -51,4 +55,31 @@ Ufuktepe, E., "Measurement of JavaScript Applications’ Readiness to Untrusted 
 
 ### Teaching  
 
-#### Fall 2020 (MU):  
+#### Spring 2021 (MU):
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+ECE 3220 - Software Design in C and C++
+
+#### Fall 2020 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+#### Spring 2020 (MU):
+
+ECE 4250/7250 - VHDL and Programmable Logic Devices
+
+ECE 3220 - Software Design in C and C++
+
+#### Fall 2019 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 4220/7220 - Real Time Embedded Computing
+
+#### Fall 2019 (Columbia College):
+
+CISS 465 - Software Engineering
+
