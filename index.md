@@ -12,6 +12,7 @@ author: Ekincan Ufuktepe
 
 [Google Scholar](https://scholar.google.com/citations?user=nMoEPfwAAAAJ&hl=en)  
 [LinkedIn](https://www.linkedin.com/in/ekincan-ufuktepe-8a208944/)  
+[GitHub](https://github.com/ekincanufuktepe)  
 
 ---
 
@@ -19,11 +20,15 @@ author: Ekincan Ufuktepe
 
 #### Patents 
 
-Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, (Pending)
+Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: 2018-GE-248960 (Pending)
 
 Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: 2015-GE-492476 (Pending)
 
 #### International Conference and Workshop Papers
+
+<!-- Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", Computer Software and Applications Conference (COMPSAC), 2021 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf) -->
+
+<!-- Ufuktepe E., Kavzak Ufuktepe D. Karabulut K., "MKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), 2021 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)-->
 
 Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020 [[pdf]]()
 
@@ -37,7 +42,7 @@ Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness aga
 
 
 #### Journal Papers
-Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation)
+<!-- Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation) -->
 
 Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
