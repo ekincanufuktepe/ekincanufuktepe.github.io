@@ -34,7 +34,7 @@ Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-au
 
 Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
 
-Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018 [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
+Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018, (accpetance rate: 19.30%) [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
 
 Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)
 
