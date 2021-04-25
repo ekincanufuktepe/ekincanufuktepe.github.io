@@ -14,7 +14,7 @@ author: Ekincan Ufuktepe
 [LinkedIn](https://www.linkedin.com/in/ekincan-ufuktepe-8a208944/)  
 [GitHub](https://github.com/ekincanufuktepe)  
 
-[Publications](https://ekincanufuktepe.github.io/index.html)
+[Publications](https://ekincanufuktepe.github.io/index.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)
 
 ---

@@ -14,7 +14,7 @@ author: Ekincan Ufuktepe
 [LinkedIn](https://www.linkedin.com/in/ekincan-ufuktepe-8a208944/)  
 [GitHub](https://github.com/ekincanufuktepe)  
 
-[Publications](https://ekincanufuktepe.github.io/index.html)
+[Publications](https://ekincanufuktepe.github.io/index.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)
 
 ---
@@ -30,4 +30,4 @@ SAP Labs Summer Music Party event playing [Neil Young - Heart of Gold](https://w
 
 SAP Labs Summer Music Party event playing [Neil Young - Harvest Moon](https://www.youtube.com/watch?v=97be2YwsF4o&index=112&list=UUYcDi6Yc50_vAtXOoYjgzXQ)
 
-This video is very special to me. When I was undergrad senior student we participated our university's music competition in Rock Category, and we won 1st prize! Enjoy [Porcupine Tree - Sound of Muzak](https://www.youtube.com/watch?v=zAG_xLVv3ck
+This video is very special to me. When I was undergrad senior student we participated our university's music competition in Rock Category, and we won 1st prize! Enjoy [Porcupine Tree - Sound of Muzak](https://www.youtube.com/watch?v=zAG_xLVv3ck)
