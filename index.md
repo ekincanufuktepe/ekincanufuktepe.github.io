@@ -31,13 +31,13 @@ Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkis
 
 Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021 [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
 
-Ufuktepe E., Kavzak Ufuktepe D. Karabulut K., "MKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021 [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/mkea-tcp)
+Ufuktepe E., Kavzak Ufuktepe D., Karabulut K., "MKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021 [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/mkea-tcp)
 
 Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020 [[pdf]]()
 
 Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
 
-Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018, (accpetance rate: 19.30%) [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
+Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018, (acceptance rate: 19.30%) [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
 
 Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)
 
