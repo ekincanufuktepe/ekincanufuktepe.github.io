@@ -20,15 +20,23 @@ author: Ekincan Ufuktepe
 
 ---
 
-### Hobbies  
+### Experience  
 
-#### Music 
-When I have time, I love playing my 5-string electric bass guitar. But, when my neighbors starts to complain about the noise, I switch to my acustic 5-string bass guitar or to my classical guitar. Currently, I working on mastering my new tenor ukulele! I really enjoy good music, but I really love playing Rock music! Here are some of the videos 
+#### University of Missouri - Columbia
+##### Instructor, Aug 2019 - Present
 
-This video was taken while I was working at SAP Labs in France Mougins in a Summer Music Party event playing [Iron Maiden - Wasting Love](https://www.youtube.com/watch?v=dU9xTIbm8Do&list=UUYcDi6Yc50_vAtXOoYjgzXQ)
-        
-SAP Labs Summer Music Party event playing [Neil Young - Heart of Gold](https://www.youtube.com/watch?v=8LfN0J_6SEk&index=106&list=UUYcDi6Yc50_vAtXOoYjgzXQ)
+##### Post-doctoral Researcher, Jul 2019 - Present
 
-SAP Labs Summer Music Party event playing [Neil Young - Harvest Moon](https://www.youtube.com/watch?v=97be2YwsF4o&index=112&list=UUYcDi6Yc50_vAtXOoYjgzXQ)
+#### Columbia College, Aug 2019 - Dec 2019
 
-This video is very special to me. When I was undergrad senior student we participated our university's music competition in Rock Category, and we won 1st prize! Enjoy [Porcupine Tree - Sound of Muzak](https://www.youtube.com/watch?v=zAG_xLVv3ck)
+#### Izmir Institute of Technology, Mar 2012 - Jul 2019
+
+#### SAP Labs, Mar 2013 - Aug 2013
+
+#### Izmir University of Economics, Feb 2011 - May 2011
+
+#### Universidad de Cantabria, Jun 2010 - Aug 2010
+
+#### Vestel, Aug 2009 - Sep 2009
+
+
