@@ -15,28 +15,20 @@ author: Ekincan Ufuktepe
 [GitHub](https://github.com/ekincanufuktepe)  
 
 [Publications](https://ekincanufuktepe.github.io/index.html)  
-[Hobby](https://ekincanufuktepe.github.io/hobby.html)
-[Experience](https://ekincanufuktepe.github.io/experience.html)
+[Hobby](https://ekincanufuktepe.github.io/hobby.html)  
+[Experience](https://ekincanufuktepe.github.io/experience.html)  
 
 ---
 
 ### Experience  
 
-#### University of Missouri - Columbia
-##### Instructor, Aug 2019 - Present
-
-##### Post-doctoral Researcher, Jul 2019 - Present
-
-#### Columbia College, Aug 2019 - Dec 2019
-
-#### Izmir Institute of Technology, Mar 2012 - Jul 2019
-
-#### SAP Labs, Mar 2013 - Aug 2013
-
-#### Izmir University of Economics, Feb 2011 - May 2011
-
-#### Universidad de Cantabria, Jun 2010 - Aug 2010
-
-#### Vestel, Aug 2009 - Sep 2009
+* **Instructor**, *University of Missouri - Columbia*, Aug 2019 - Present  
+* **Post-doctoral Researcher**, *University of Missouri - Columbia*, Jul 2019 - Present  
+* **Adjunct Professor**, *Columbia College*, Aug 2019 - Dec 2019  
+* **Research Assistant (full-time)**, *Izmir Institute of Technology*, Mar 2012 - Jul 2019  
+* **Research Intern**, *SAP Labs*, Mar 2013 - Aug 2013  
+* **Student Teaching Assistant**, *Izmir University of Economics*, Feb 2011 - May 2011  
+* **Intern**, *Universidad de Cantabria*, Jun 2010 - Aug 2010  
+* **Intern**, *Vestel*, Aug 2009 - Sep 2009  
 
 

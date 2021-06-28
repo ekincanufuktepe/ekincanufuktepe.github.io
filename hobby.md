@@ -15,8 +15,8 @@ author: Ekincan Ufuktepe
 [GitHub](https://github.com/ekincanufuktepe)  
 
 [Publications](https://ekincanufuktepe.github.io/index.html)  
-[Hobby](https://ekincanufuktepe.github.io/hobby.html)
-[Experience](https://ekincanufuktepe.github.io/experience.html)
+[Hobby](https://ekincanufuktepe.github.io/hobby.html)  
+[Experience](https://ekincanufuktepe.github.io/experience.html)  
 
 ---
 
