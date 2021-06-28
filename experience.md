@@ -23,6 +23,7 @@ author: Ekincan Ufuktepe
 ### Experience  
 
 * **Instructor**, *University of Missouri - Columbia*, Aug 2019 - Present  
+* **Assistant Professor**, *Izmir University of Economics*, Mar 2020 - Present (on leave)
 * **Post-doctoral Researcher**, *University of Missouri - Columbia*, Jul 2019 - Present  
 * **Adjunct Professor**, *Columbia College*, Aug 2019 - Dec 2019  
 * **Research Assistant (full-time)**, *Izmir Institute of Technology*, Mar 2012 - Jul 2019  
