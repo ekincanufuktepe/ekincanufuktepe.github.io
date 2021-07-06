@@ -26,7 +26,7 @@ author: Ekincan Ufuktepe
 
 Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: 2018-GE-248960 (Pending)
 
-Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: 2015-GE-492476 (Pending)
+Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [Copyright](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf),[Analysis Report](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
 #### International Conference and Workshop Papers
 
