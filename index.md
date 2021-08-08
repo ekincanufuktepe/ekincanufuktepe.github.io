@@ -30,11 +30,13 @@ Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkis
 
 #### International Conference and Workshop Papers
 
-Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021 [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
+Kavzak Ufuktepe D., Collins J., Ufuktepe E., Fraser J., Palaniappan K., Automatic Training Data Generation from 3D Point Cloud for Learning-based Shadow Detection on WAMI data, Workshop on Analysis of Aerial Motion Imagery (WAAMI - ICCV Workshops), 2021, [[pdf]](), [[source code - solar-position]](https://github.com/CIVA-Lab/solar-position-calculator),[[source code - depthShadowMask]](https://github.com/CIVA-Lab/depthshadowmask)
 
-Ufuktepe E., Kavzak Ufuktepe D., Karabulut K., "MuKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), (Accepted, to appear), 2021 [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/mukea-tcp)
+Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
 
-Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020 [[pdf]]()
+Ufuktepe E., Kavzak Ufuktepe D., Karabulut K., "MuKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](), [[source code]](https://github.com/ekincanufuktepe/mukea-tcp)
+
+Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020, [[pdf]]()
 
 Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
 
