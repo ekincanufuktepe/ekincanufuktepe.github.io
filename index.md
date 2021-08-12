@@ -67,6 +67,14 @@ Ufuktepe, E., "Measurement of JavaScript Applications’ Readiness to Untrusted 
 
 ### Teaching  
 
+#### Fall 2021 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 4270/7270 - Computer Architecture 
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
 #### Spring 2021 (MU):
 
 ECE 3210 - Microprocessor Engineering for Electrical Engineers
