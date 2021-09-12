@@ -31,6 +31,8 @@ Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkis
 
 #### International Conference and Workshop Papers
 
+Schulte G., Shutt K., Martinez-Sainz J., Nawawi W. F. W., Ufuktepe E., Palaniappan K.,An Automatic COVID-19 Social Distancing and Room Management System Architecture for Indoors, IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2021, [[pdf]]()
+
 Kavzak Ufuktepe D., Collins J., Ufuktepe E., Fraser J., Palaniappan K., Automatic Training Data Generation from 3D Point Cloud for Learning-based Shadow Detection on WAMI data, Workshop on Analysis of Aerial Motion Imagery (WAAMI - ICCV Workshops), 2021, [[pdf]](), [[source code - solar-position]](https://github.com/CIVA-Lab/solar-position-calculator),[[source code - depthShadowMask]](https://github.com/CIVA-Lab/depthshadowmask)
 
 Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](/paper/2021_COMPSAC_Code_Change_Sniffer_Ufuktepe.pdf), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
