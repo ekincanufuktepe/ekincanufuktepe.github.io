@@ -20,6 +20,14 @@ author: Ekincan Ufuktepe
 [Experience](https://ekincanufuktepe.github.io/experience.html)  
 
 ---
+### News
+
+* Our QRS'21 paper on ***The Relation between Bug Fix Change Patterns and Change Impact Analysis***, is in the top 8 paper, and has been recommended to journal of IEEE Transactions on Reliability!
+* I currently have research projects for both undergraduate and graduate-level on the topics given below, if you are interested in working with me related to the topics below feel free to contact me for details!
+  * Mutation Testing
+  * Change Impact Analysis
+  * Model-based Testing 
+  * Search-based Software Engineering
 
 ### Publications  
 
@@ -33,7 +41,7 @@ Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkis
 
 Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security (QRS) Workshops, 2021, [[pdf]]()[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
 
-Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, (acceptance rate: 25.10%) [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
 Kavzak Ufuktepe D., Ufuktepe E., Ayav T., "A Metric for Measuring Test Input Generation Effectiveness of Test Generation Methods for Boolean Expressions", 15. Turkish National Software Engineering Symposium, UYMS 2021 [[pdf]]()
 
