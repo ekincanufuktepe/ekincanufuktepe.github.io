@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Ekincan Ufuktepe
-tagline: myfullname (at) gmail.com
-description: Ekincan Ufuktepe, Post-doctoral Researcher/Instructor, University of Missouri-Columbia
+tagline: euh46 (at) missouri.com
+description: Ekincan Ufuktepe, Asst. Prof., University of Missouri-Columbia
 author: Ekincan Ufuktepe
 ---
 
 | - | - |
 |---|---|
-| I am a post-doctoral researcher and an instructor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
+| I am a Assistant Teaching Professor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
 |[![Ekincan's Github stats](https://github-readme-stats.vercel.app/api?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|[![Ekincan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|
 
 [Google Scholar](https://scholar.google.com/citations?user=nMoEPfwAAAAJ&hl=en)  
