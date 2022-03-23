@@ -37,15 +37,21 @@ Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach 
 
 Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Copyright]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
+#### Journal Papers
+
+Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability **(Accepted)**, 2022 [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+
+Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
+
 #### International Conference and Workshop Papers
 
-Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security (QRS) Workshops, 2021, [[pdf]]()[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
+Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]]()[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
 
 Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
 Kavzak Ufuktepe D., Ufuktepe E., Ayav T., "A Metric for Measuring Test Input Generation Effectiveness of Test Generation Methods for Boolean Expressions", 15. Turkish National Software Engineering Symposium, UYMS 2021 [[pdf]]()
 
-Schulte G., Shutt K., Martinez-Sainz J., Nawawi W. F. W., Ufuktepe E., Palaniappan K., "An Automatic COVID-19 Social Distancing and Room Management System Architecture for Indoors", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2021, [[pdf]]()
+Shutt K., Nawawi W. F. W., Schulte G., Martinez-Sainz J., Ufuktepe E., Palaniappan K., "Auto-SDist: An Automatic COVID-19 Social Distancing and Room Management System Architecture for Indoors", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2021, [[pdf]]()
 
 Kavzak Ufuktepe D., Collins J., Ufuktepe E., Fraser J., Palaniappan K., "Learning-Based Shadow Detection in Aerial Imagery Using Automatic Training Supervision From 3D Point Clouds", Workshop on Analysis of Aerial Motion Imagery (WAAMI - ICCV Workshops), 2021, [[pdf]](), [[source code - solar-position]](https://github.com/CIVA-Lab/solar-position-calculator),[[source code - depthShadowMask]](https://github.com/CIVA-Lab/depthshadowmask)
 
@@ -63,11 +69,6 @@ Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Te
 
 Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness against Untrusted Data Using Bayesian Networks" (In Turkish), 7th International Conference on Information Security and Cryptology, ISC 2014 [[pdf]](/paper/2014_ISC_Ufuktepe_Tuglular.pdf)
 
-
-#### Journal Papers
-<!-- Ufuktepe E., Tuglular T., "Predicting Future Code Changes with Markov Chains", 2020, (Manuscript in Preparation) -->
-
-Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
 #### National Conference Papers
 Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Turkish National Software Engineering Symposium, UYMS 2015 (Best Paper) [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
