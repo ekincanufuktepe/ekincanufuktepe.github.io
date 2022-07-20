@@ -16,6 +16,7 @@ author: Ekincan Ufuktepe
 [GitHub](https://github.com/ekincanufuktepe)  
 
 [Publications](https://ekincanufuktepe.github.io/index.html)  
+[Teaching](https://ekincanufuktepe.github.io/teaching.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)  
 [Experience](https://ekincanufuktepe.github.io/experience.html)  
 
@@ -39,7 +40,7 @@ Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkis
 
 #### Journal Papers
 
-Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability **(Accepted)**, 2022 [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
 Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
@@ -80,43 +81,4 @@ Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., "Determining Vent
 Ufuktepe, E., "Test Case Prioritization for Regression Testing Using Change Impact Analysis", Ph.D. Thesis, Izmir Institute of Technology
 
 Ufuktepe, E., "Measurement of JavaScript Applications’ Readiness to Untrusted Data Using Bayesian Networks", M.Sc. Thesis, Izmir Institute of Technology 
-
-
-### Teaching  
-
-#### Fall 2021 (MU):
-
-CMP_SC 4450/7450 - Principles of Programming Languages
-
-ECE 4270/7270 - Computer Architecture 
-
-ECE 3210 - Microprocessor Engineering for Electrical Engineers
-
-#### Spring 2021 (MU):
-
-ECE 3210 - Microprocessor Engineering for Electrical Engineers
-
-ECE 3220 - Software Design in C and C++
-
-#### Fall 2020 (MU):
-
-CMP_SC 4450/7450 - Principles of Programming Languages
-
-ECE 3210 - Microprocessor Engineering for Electrical Engineers
-
-#### Spring 2020 (MU):
-
-ECE 4250/7250 - VHDL and Programmable Logic Devices
-
-ECE 3220 - Software Design in C and C++
-
-#### Fall 2019 (MU):
-
-CMP_SC 4450/7450 - Principles of Programming Languages
-
-ECE 4220/7220 - Real Time Embedded Computing
-
-#### Fall 2019 (Columbia College):
-
-CISS 465 - Software Engineering
 
