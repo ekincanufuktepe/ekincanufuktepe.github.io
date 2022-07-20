@@ -15,17 +15,19 @@ author: Ekincan Ufuktepe
 [LinkedIn](https://www.linkedin.com/in/ekincan-ufuktepe-8a208944/)  
 [GitHub](https://github.com/ekincanufuktepe)  
 
-[Publications](https://ekincanufuktepe.github.io/index.html)  
+[Publications](https://ekincanufuktepe.github.io/index.html)
+[Teaching](https://ekincanufuktepe.github.io/teaching.html)
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)  
-[Experience](https://ekincanufuktepe.github.io/experience.html)  
+[Experience](https://ekincanufuktepe.github.io/experience.html)
 
 ---
 
 ### Experience  
 
-* **Instructor**, *University of Missouri - Columbia*, Aug 2019 - Present  
+* **Assistant Teaching Professor**, *University of Missouri - Columbia*, Jan 2022 - Present  
+* **Instructor**, *University of Missouri - Columbia*, Aug 2019 - Dec 2021
 * **Assistant Professor**, *Izmir University of Economics*, Mar 2020 - Present (on leave)
-* **Post-doctoral Researcher**, *University of Missouri - Columbia*, Jul 2019 - Present  
+* **Post-doctoral Researcher**, *University of Missouri - Columbia*, Jul 2019 - Dec 2021  
 * **Adjunct Professor**, *Columbia College*, Aug 2019 - Dec 2019  
 * **Research Assistant (full-time)**, *Izmir Institute of Technology*, Mar 2012 - Jul 2019  
 * **Research Intern**, *SAP Labs*, Mar 2013 - Aug 2013  
