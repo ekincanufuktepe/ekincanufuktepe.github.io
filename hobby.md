@@ -15,10 +15,10 @@ author: Ekincan Ufuktepe
 [LinkedIn](https://www.linkedin.com/in/ekincan-ufuktepe-8a208944/)  
 [GitHub](https://github.com/ekincanufuktepe)  
 
-[Publications](https://ekincanufuktepe.github.io/index.html)
-[Teaching](https://ekincanufuktepe.github.io/teaching.html)
+[Publications](https://ekincanufuktepe.github.io/index.html)  
+[Teaching](https://ekincanufuktepe.github.io/teaching.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)  
-[Experience](https://ekincanufuktepe.github.io/experience.html)
+[Experience](https://ekincanufuktepe.github.io/experience.html)  
 
 ---
 

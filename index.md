@@ -46,6 +46,8 @@ Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input V
 
 #### International Conference and Workshop Papers
 
+Watson A., Ufuktepe E., Palaniappan K., "Detecting Vulnerabilities as an Image with Convolutional Neural Networks Supported with Program Slicing Data", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2022, [[pdf]]()
+
 Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]]()[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
 
 Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
