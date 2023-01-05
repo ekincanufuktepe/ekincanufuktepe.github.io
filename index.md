@@ -34,23 +34,27 @@ author: Ekincan Ufuktepe
 
 #### Patents 
 
-Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: 2018-GE-248960 (Pending)
+Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: TR 2018 08006 B [[Patent - Analysis Report]](/paper/2018_Patent_Report_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Copyright]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
+Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Patent]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
 #### Journal Papers
 
-Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+Belli F., Tuglular T., Ufuktepe E., A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches, International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
+
+Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]](/paper/2022_IEEETR_Tracking_Code_Bug_Fix_Ripple_Effects_Based_on_Change_Patterns_Using_Markov_Chain_Models.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
 Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
 #### International Conference and Workshop Papers
 
-Watson A., Ufuktepe E., Palaniappan K., "Detecting Vulnerabilities as an Image with Convolutional Neural Networks Supported with Program Slicing Data", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2022, [[pdf]]()
+Esquivel A., Ufuktepe E., Grant C., Elfrink S., Qu C., Calyam P. Palaniappan K., "Trust Quantification in a Collaborative Drone System with Intelligence-driven Edge Routing", IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023, [[pdf]]()[[source code]]()
 
-Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]]()[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
+Watson A., Ufuktepe E., Palaniappan K., "Detecting Software Code Vulnerabilities Using 2D Convolutional Neural Networks with Program Slicing Feature Maps", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2022, [[pdf]]()
 
-Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]]()[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]](/paper/2021_QRS_Heterogeneous_Modeling_and_Testing_of_Software_Product_Lines.pdf)[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
+
+Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]](/paper/2021_QRS_The_Relation_between_Bug_Fix_Change_Patterns_and_Change_Impact_Analysis.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
 Kavzak Ufuktepe D., Ufuktepe E., Ayav T., "A Metric for Measuring Test Input Generation Effectiveness of Test Generation Methods for Boolean Expressions", 15. Turkish National Software Engineering Symposium, UYMS 2021 [[pdf]]()
 
@@ -74,7 +78,7 @@ Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness aga
 
 
 #### National Conference Papers
-Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Turkish National Software Engineering Symposium, UYMS 2015 (Best Paper) [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
+Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Turkish National Software Engineering Symposium, UYMS 2015 **(Best Paper)** [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
 
 Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., "Determining Ventilation in Classrooms" (In Turkish), 12. Ulusal Tesisat Muhendisligi Kongresi, Izmir, 2015 [[pdf]]()
 
