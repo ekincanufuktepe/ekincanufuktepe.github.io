@@ -25,6 +25,7 @@ author: Ekincan Ufuktepe
 
 * Our QRS'21 paper on ***The Relation between Bug Fix Change Patterns and Change Impact Analysis***, is in the top 8 paper, and has been recommended to journal of IEEE Transactions on Reliability!
 * I currently have research projects for both undergraduate and graduate-level on the topics given below, if you are interested in working with me related to the topics below feel free to contact me for details!
+  * Code Vulnerability Detection
   * Mutation Testing
   * Change Impact Analysis
   * Model-based Testing 
@@ -39,6 +40,8 @@ Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach 
 Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Patent]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
 #### Journal Papers
+
+Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
 
 Belli F., Tuglular T., Ufuktepe E., A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches, International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
 
