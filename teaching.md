@@ -24,6 +24,26 @@ author: Ekincan Ufuktepe
 
 ### Teaching  
 
+#### Fall 2023 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Summer 2023 (MU):
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Spring 2023 (MU):
+
+ECE 4270/7270 - Computer Architecture 
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+ECE 3220 - Software Design in C and C++
+
 #### Fall 2022 (MU):
 
 CMP_SC 4450/7450 - Principles of Programming Languages
