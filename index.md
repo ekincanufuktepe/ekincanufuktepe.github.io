@@ -8,7 +8,7 @@ author: Ekincan Ufuktepe
 
 | - | - |
 |---|---|
-| I am an Assistant Teaching Professor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
+| I am an Assistant Professor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
 |[![Ekincan's Github stats](https://github-readme-stats.vercel.app/api?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|[![Ekincan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|
 
 [Google Scholar](https://scholar.google.com/citations?user=nMoEPfwAAAAJ&hl=en)  
@@ -40,6 +40,8 @@ Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach 
 Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Patent]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
 #### Journal Papers
+
+Belli F., Tuglular T., Ufuktepe E., Unifying Behavioral and Feature Modeling for Testing of Software Product Lines, International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
 
 Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
 
