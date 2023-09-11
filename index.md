@@ -35,57 +35,57 @@ author: Ekincan Ufuktepe
 
 #### Patents 
 
-Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: TR 2018 08006 B [[Patent - Analysis Report]](/paper/2018_Patent_Report_Ufuktepe_Tuglular.pdf)
+2. Ufuktepe E., Tuglular T., A Program Slicing and Bayesian Network Based Approach to Predict Future Changed Methods in a Software's Next Version, Turkish Patent Institute, Document ID: TR 2018 08006 B [[Patent - Analysis Report]](/paper/2018_Patent_Report_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Patent]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
+1. Ufuktepe E., Tuglular T., An Approach to Measure a Software's Robustness, Turkish Patent Institute, Document ID: TR 2015 17610 B [[Patent]](/paper/2015_Patent_Copyright_Ufuktepe_Tuglular.pdf), [[Analysis Report]](/paper/2015_Patent_Analysis_Report_Ufuktepe_Tuglular.pdf)
 
 #### Journal Papers
 
-Belli F., Tuglular T., Ufuktepe E., Unifying Behavioral and Feature Modeling for Testing of Software Product Lines, International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
+5. Belli F., Tuglular T., Ufuktepe E., Unifying Behavioral and Feature Modeling for Testing of Software Product Lines, International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
 
-Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
+4. Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
 
-Belli F., Tuglular T., Ufuktepe E., A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches, International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
+3. Belli F., Tuglular T., Ufuktepe E., A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches, International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
 
-Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]](/paper/2022_IEEETR_Tracking_Code_Bug_Fix_Ripple_Effects_Based_on_Change_Patterns_Using_Markov_Chain_Models.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+2. Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]](/paper/2022_IEEETR_Tracking_Code_Bug_Fix_Ripple_Effects_Based_on_Change_Patterns_Using_Markov_Chain_Models.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
-Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
+1. Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
 #### International Conference and Workshop Papers
 
-Esquivel A., Ufuktepe E., Grant C., Elfrink S., Qu C., Calyam P. Palaniappan K., "Trust Quantification in a Collaborative Drone System with Intelligence-driven Edge Routing", IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023, [[pdf]]()[[source code]]()
+14. Esquivel A., Ufuktepe E., Grant C., Elfrink S., Qu C., Calyam P. Palaniappan K., "Trust Quantification in a Collaborative Drone System with Intelligence-driven Edge Routing", IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023, [[pdf]]()[[source code]]()
 
-Watson A., Ufuktepe E., Palaniappan K., "Detecting Software Code Vulnerabilities Using 2D Convolutional Neural Networks with Program Slicing Feature Maps", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2022, [[pdf]]()
+13. Watson A., Ufuktepe E., Palaniappan K., "Detecting Software Code Vulnerabilities Using 2D Convolutional Neural Networks with Program Slicing Feature Maps", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2022, [[pdf]]()
 
-Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]](/paper/2021_QRS_Heterogeneous_Modeling_and_Testing_of_Software_Product_Lines.pdf)[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
+12. Belli F., Tuglular T., Ufuktepe E., "Heterogeneous Modeling and Testing of Software Product Lines", IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2021, [[pdf]](/paper/2021_QRS_Heterogeneous_Modeling_and_Testing_of_Software_Product_Lines.pdf)[[source code]](https://github.com/esg4aspl/SPL-ESG-Examples)
 
-Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]](/paper/2021_QRS_The_Relation_between_Bug_Fix_Change_Patterns_and_Change_Impact_Analysis.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
+11. Ufuktepe E., Tuglular T., Palaniappan K., "The Relation between Bug Fix Change Patterns and Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2021, **(Recommended for IEEE TR submission)**, (acceptance rate: 25.10%) [[pdf]](/paper/2021_QRS_The_Relation_between_Bug_Fix_Change_Patterns_and_Change_Impact_Analysis.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
-Kavzak Ufuktepe D., Ufuktepe E., Ayav T., "A Metric for Measuring Test Input Generation Effectiveness of Test Generation Methods for Boolean Expressions", 15. Turkish National Software Engineering Symposium, UYMS 2021 [[pdf]]()
+10. Kavzak Ufuktepe D., Ufuktepe E., Ayav T., "A Metric for Measuring Test Input Generation Effectiveness of Test Generation Methods for Boolean Expressions", 15. Turkish National Software Engineering Symposium, UYMS 2021 [[pdf]]()
 
-Shutt K., Nawawi W. F. W., Schulte G., Martinez-Sainz J., Ufuktepe E., Palaniappan K., "Auto-SDist: An Automatic COVID-19 Social Distancing and Room Management System Architecture for Indoors", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2021, [[pdf]]()
+9. Shutt K., Nawawi W. F. W., Schulte G., Martinez-Sainz J., Ufuktepe E., Palaniappan K., "Auto-SDist: An Automatic COVID-19 Social Distancing and Room Management System Architecture for Indoors", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2021, [[pdf]]()
 
-Kavzak Ufuktepe D., Collins J., Ufuktepe E., Fraser J., Palaniappan K., "Learning-Based Shadow Detection in Aerial Imagery Using Automatic Training Supervision From 3D Point Clouds", Workshop on Analysis of Aerial Motion Imagery (WAAMI - ICCV Workshops), 2021, [[pdf]](), [[source code - solar-position]](https://github.com/CIVA-Lab/solar-position-calculator),[[source code - depthShadowMask]](https://github.com/CIVA-Lab/depthshadowmask)
+8. Kavzak Ufuktepe D., Collins J., Ufuktepe E., Fraser J., Palaniappan K., "Learning-Based Shadow Detection in Aerial Imagery Using Automatic Training Supervision From 3D Point Clouds", Workshop on Analysis of Aerial Motion Imagery (WAAMI - ICCV Workshops), 2021, [[pdf]](), [[source code - solar-position]](https://github.com/CIVA-Lab/solar-position-calculator),[[source code - depthShadowMask]](https://github.com/CIVA-Lab/depthshadowmask)
 
-Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](/paper/2021_COMPSAC_Code_Change_Sniffer_Ufuktepe.pdf), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
+7. Ufuktepe E., Tuglular T., "Code Change Sniffer: Predicting Future Code Changes with Markov Chain", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](/paper/2021_COMPSAC_Code_Change_Sniffer_Ufuktepe.pdf), [[source code]](https://github.com/ekincanufuktepe/code-change-sniffer)
 
-Ufuktepe E., Kavzak Ufuktepe D., Karabulut K., "MuKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](/paper/2021_COMPSAC_MKEA_TCP_Ufuktepe.pdf), [[source code]](https://github.com/ekincanufuktepe/mukea-tcp)
+6. Ufuktepe E., Kavzak Ufuktepe D., Karabulut K., "MuKEA-TCP: A Mutant Kill-based Local Search Augmented Evolutionary Algorithm Approach for Test Case Prioritization", Computer Software and Applications Conference (COMPSAC), 2021, [[pdf]](/paper/2021_COMPSAC_MKEA_TCP_Ufuktepe.pdf), [[source code]](https://github.com/ekincanufuktepe/mukea-tcp)
 
-Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020, [[pdf]]()
+5. Al-Shakarji N., Ufuktepe E., Bunyak F., Seetharaman G., Palaniappan K., "Semi-automatic System for Rapid Annotation of Moving Objects in Surveillance Videos using Deep Detection and Multi-object Tracking Techniques", IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 2020, [[pdf]]()
 
-Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
+4. Ufuktepe E., Ramtekkar V., Gao K., Al-Shakarji N., Fraser J., AliAkbarpour H., Seetharaman G., Palaniappan K., "pyTAG: Python-based Interactive Training Data Generation for Visual Tracking Algorithms", SPIE, Defense + Commercial Sensing, Geospatial Informatics X, 2020 [[pdf]](),[[source code]](https://github.com/CIVA-Lab/pyTAG)
 
-Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018, (acceptance rate: 19.30%) [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
+3. Ufuktepe E., Tuglular T., "A Program Slicing-based Bayesian Network Model for Change Impact Analysis", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2018, (acceptance rate: 19.30%) [[pdf]](/paper/2018_QRS_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)
+2. Ufuktepe E., Tuglular T., "Automation Architecture for Bayesian Network Based Test Case Prioritization and Execution", Computer Software and Applications Conference (COMPSAC, STA), 2016 [[pdf]](/paper/2016_COMPSAC_Ufuktepe_Tuglular.pdf)
 
-Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness against Untrusted Data Using Bayesian Networks" (In Turkish), 7th International Conference on Information Security and Cryptology, ISC 2014 [[pdf]](/paper/2014_ISC_Ufuktepe_Tuglular.pdf)
+1. Ufuktepe E., Tuglular T., "Measurement of JavaScript Applications' Readiness against Untrusted Data Using Bayesian Networks" (In Turkish), 7th International Conference on Information Security and Cryptology, ISC 2014 [[pdf]](/paper/2014_ISC_Ufuktepe_Tuglular.pdf)
 
 
 #### National Conference Papers
-Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Turkish National Software Engineering Symposium, UYMS 2015 **(Best Paper)** [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
+2. Ufuktepe E., Tuglular T., "Input Validation Analysis for JavaScript Libraries" (In Turkish), 9. Turkish National Software Engineering Symposium, UYMS 2015 **(Best Paper)** [[pdf]](/paper/2015_UYMS_Ufuktepe_Tuglular.pdf)
 
-Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., "Determining Ventilation in Classrooms" (In Turkish), 12. Ulusal Tesisat Muhendisligi Kongresi, Izmir, 2015 [[pdf]]()
+1. Toksoy M., Sofuoglu, S. C., Ekren O., Ufuktepe, E., Varlik N., "Determining Ventilation in Classrooms" (In Turkish), 12. Ulusal Tesisat Muhendisligi Kongresi, Izmir, 2015 [[pdf]]()
 
 
 #### Theses
