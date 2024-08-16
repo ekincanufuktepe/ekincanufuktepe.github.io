@@ -41,6 +41,10 @@ author: Ekincan Ufuktepe
 
 #### Journal Papers
 
+7. Esquivel A., Ufuktepe E., Poduvu S., Gafurov D., Palaniappan K., Calyam P., Arculus: Zero Trust for Situational Awareness Tasks in Tactical Edge Networks, IEEE Journal on Selected Areas in Communications, 2024 (Under Review)
+
+6. Farmer M., Watson A., Carvalho H. M., Okun V., Maasaoui Z., Ufuktepe E., Palaniappan K., VulGNN: Generalizability of Graph Neural Networks for Software Vulnerability Detection, IEEE Transactions on Software Engineering, 2024 (Under Review) 
+
 5. Belli F., Tuglular T., Ufuktepe E., Unifying Behavioral and Feature Modeling for Testing of Software Product Lines, International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
 
 4. Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
@@ -52,6 +56,8 @@ author: Ekincan Ufuktepe
 1. Ufuktepe E., Tuglular T., "Estimating Software Robustness in Relation to Input Validation Vulnerabilities using Bayesian networks", Software Quality Journal, 2017 [[pdf]](/paper/2017_SQJ_Ufuktepe_Tuglular.pdf), [[source code]](https://github.com/ekincanufuktepe/Measuring-Robustness-Against-Input-Validation-Attacks)
 
 #### International Conference and Workshop Papers
+
+15. Saketh Poduvu, Sayed M Saghaian, Ekincan Ufuktepe, Alicia Esquivel Morel, Prasad Calyam, Risk-based Zero Trust Scale for Tactical Edge Network Environments, ACM/IEEE Symposium on Edge Computing, 2023
 
 14. Esquivel A., Ufuktepe E., Grant C., Elfrink S., Qu C., Calyam P. Palaniappan K., "Trust Quantification in a Collaborative Drone System with Intelligence-driven Edge Routing", IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023, [[pdf]]()[[source code]]()
 
