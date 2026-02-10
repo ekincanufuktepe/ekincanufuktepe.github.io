@@ -38,24 +38,64 @@ author: Ekincan Ufuktepe
 
 #### Undergraduate Students
 
-* Tyler Graber
-* John Lin
-* Alissa Chimienti
-* Miles Farmer
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Tyler Graber</strong>
+</div>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>John Lin</strong>
+</div>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Alissa Chimienti</strong>
+</div>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Miles Farmer</strong>
+</div>
 
 
 ### Past Students
 
 #### Graduate Students
-* Evan Buchanan
-* Caden Hicks
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Evan Buchanan</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Caden Hicks</strong>
+</div>
+
 
 #### Undergraduate Students
 
-* George Bahr (Garmin)
-* Lauren Kwon 
-* Joelle Dizon
-* Nicholas Cope
-* Yuri Batan
-* Anne Watson (Burns & McDonnell)
-
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>George Bahr (Garmin)</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Lauren Kwon</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Joelle Dizon</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Nicholas Cope</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Yuri Batan</strong>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:10px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <strong>Anne Watson (Burns & McDonnell)</strong>
+</div>
