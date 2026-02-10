@@ -38,21 +38,17 @@ author: Ekincan Ufuktepe
 
 #### Undergraduate Students
 
-</div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>Tyler Graber</strong>
-</div>
 </div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>John Lin</strong>
 </div>
-</div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>Alissa Chimienti</strong>
-</div>
 </div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
   <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
