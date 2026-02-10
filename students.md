@@ -27,11 +27,11 @@ author: Ekincan Ufuktepe
 #### Graduate Students
 
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/image/students/hacker_truman.jpg" width="120" style="border-radius:50%; margin-right:15px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>Zoe Strassner</strong>
 </div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/image/students/hacker_truman.jpg" width="120" style="border-radius:50%; margin-right:15px;">
+  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>Zachary Sample</strong>
 </div>
 
