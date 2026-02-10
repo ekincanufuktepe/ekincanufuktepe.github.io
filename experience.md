@@ -2,13 +2,13 @@
 layout: page
 title: Ekincan Ufuktepe
 tagline: euh46 (at) missouri.com
-description: Ekincan Ufuktepe, Asst. Prof., University of Missouri-Columbia
+description: Ekincan Ufuktepe, Assoc. Prof., University of Missouri-Columbia
 author: Ekincan Ufuktepe
 ---
 
 | - | - |
 |---|---|
-| I am an Assistant Teaching Professor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
+| I am an Associate Teaching Professor at the [University of Missouri-Columbia (MU)](https://missouri.edu/). I am also a member of the [Computational Imaging & Visualization Analysis (CIVA) Lab](http://cell.missouri.edu/) at MU. I received my Ph.D. at the [Computer Engineering Department](https://ceng.iyte.edu.tr) of the [Izmir Institute of Technology (IZTECH)](https://ceng.iyte.edu.tr). My research interests include software security, software testing, and program analysis.     | ![](/image/headshot.png){:height="720px" width="1200px"} |
 |[![Ekincan's Github stats](https://github-readme-stats.vercel.app/api?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|[![Ekincan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekincanufuktepe&theme=blue-green)](https://github.com/ekincanufuktepe/github-readme-stats)|
 
 [Google Scholar](https://scholar.google.com/citations?user=nMoEPfwAAAAJ&hl=en)  
@@ -19,12 +19,15 @@ author: Ekincan Ufuktepe
 [Teaching](https://ekincanufuktepe.github.io/teaching.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)  
 [Experience](https://ekincanufuktepe.github.io/experience.html)  
+[Students](https://ekincanufuktepe.github.io/students.html)  
 
 ---
 
 ### Experience  
 
-* **Assistant Teaching Professor**, *University of Missouri - Columbia*, Jan 2022 - Present  
+* **Director of Undergraduate Studies**, *University of Missouri - Columbia*, Aug 2025 - Present
+* **Associate Teaching Professor**, *University of Missouri - Columbia*, Aug 2025 - Present
+* **Assistant Teaching Professor**, *University of Missouri - Columbia*, Jan 2022 - Aug 2025  
 * **Instructor**, *University of Missouri - Columbia*, Aug 2019 - Dec 2021
 * **Assistant Professor**, *Izmir University of Economics*, Mar 2020 - Present (on leave)
 * **Post-doctoral Researcher**, *University of Missouri - Columbia*, Jul 2019 - Dec 2021  
