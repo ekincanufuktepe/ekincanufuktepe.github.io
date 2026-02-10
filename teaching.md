@@ -19,10 +19,61 @@ author: Ekincan Ufuktepe
 [Teaching](https://ekincanufuktepe.github.io/teaching.html)  
 [Hobby](https://ekincanufuktepe.github.io/hobby.html)  
 [Experience](https://ekincanufuktepe.github.io/experience.html)  
+[Students](https://ekincanufuktepe.github.io/students.html)  
 
 ---
 
 ### Teaching  
+
+#### Spring 2026 (MU):
+
+CMP_SC 3330 - Object-oriented Programming
+
+CMP_SC 2300 - Introduction to Computational Data Visualization 
+
+CMP_SC 2050 - Algorithm Design and Programming II
+
+#### Fall 2025 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Summer 2025 (MU):
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Spring 2025 (MU):
+
+ECE 4270/7270 - Computer Architecture 
+
+CMP_SC 3330 - Object-oriented Programming
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+CMP_SC 2050 - Algorithm Design and Programming II
+
+#### Fall 2024 (MU):
+
+CMP_SC 4450/7450 - Principles of Programming Languages
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Summer 2024 (MU):
+
+CMP_SC 1050 - Algorithm Design and Programming I
+
+#### Spring 2024 (MU):
+
+ECE 4270/7270 - Computer Architecture 
+
+ECE 3210 - Microprocessor Engineering for Electrical Engineers
+
+CMP_SC 3330 - Object-oriented Programming
 
 #### Fall 2023 (MU):
 
