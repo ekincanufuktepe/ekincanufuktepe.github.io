@@ -47,7 +47,7 @@ author: Ekincan Ufuktepe
   <strong>John Lin</strong>
 </div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
-  <img src="/image/students/hacker_truman.png" width="120" style="border-radius:50%; margin-right:15px;">
+  <img src="/image/students/alissa.jpg" width="120" style="border-radius:50%; margin-right:15px;">
   <strong>Alissa Chimienti</strong>
 </div>
 <div style="display:flex; align-items:center; margin-bottom:10px;">
