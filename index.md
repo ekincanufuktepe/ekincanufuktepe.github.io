@@ -42,15 +42,17 @@ author: Ekincan Ufuktepe
 
 #### Journal Papers
 
-7. Esquivel A., Ufuktepe E., Poduvu S., Gafurov D., Palaniappan K., Calyam P., Arculus: Zero Trust for Situational Awareness Tasks in Tactical Edge Networks, IEEE Journal on Selected Areas in Communications, 2024 (Under Review)
+<!-- 8. Esquivel A., Ufuktepe E., Poduvu S., Gafurov D., Palaniappan K., Calyam P., Arculus: Zero Trust for Situational Awareness Tasks in Tactical Edge Networks, IEEE Journal on Selected Areas in Communications, 2024 (Under Review) -->
 
-6. Farmer M., Watson A., Carvalho H. M., Okun V., Maasaoui Z., Ufuktepe E., Palaniappan K., VulGNN: Generalizability of Graph Neural Networks for Software Vulnerability Detection, IEEE Transactions on Software Engineering, 2024 (Under Review) 
+7. Farmer M., Watson A., Carvalho H. M., Okun V., Maasaoui Z., Ufuktepe E., Palaniappan K., "Software Vulnerability Detection Using a Lightweight Graph Neural Network", IEEE Transactions on Software Engineering, 2026 (Under Review) 
 
-5. Belli F., Tuglular T., Ufuktepe E., Unifying Behavioral and Feature Modeling for Testing of Software Product Lines, International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
+6. Hicks, C., Ufuktepe, E., Tuglular, T., Belli, F., "Evolutionary variant selection to reduce redundancy in behavioral-aware SPL testing", Journal of Systems and Software, 2026, [[pdf]]() [[source code]]()
 
-4. Ufuktepe E., Tuglular T., Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization, IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
+5. Belli F., Tuglular T., Ufuktepe E., "Unifying Behavioral and Feature Modeling for Testing of Software Product Lines", International Journal of Software Engineering and Knowledge Engineering, 2023, [[pdf]]() [[source code]]() 
 
-3. Belli F., Tuglular T., Ufuktepe E., A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches, International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
+4. Ufuktepe E., Tuglular T., "Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization", IEEE Access, 2023, [[pdf]](/paper/2023_IEEE_Access_LoM_TCP.pdf) [[source code]](https://github.com/ekincanufuktepe/lom-tcp) 
+
+3. Belli F., Tuglular T., Ufuktepe E., "A new approach to event- and model-based feature-driven software testing and  comparison with similar approaches", International Advanced Researches and Engineering Journal, 2022, [[pdf]](/paper/2022_IAREJ_Belli_Tuglular_Ufuktepe.pdf) [[source code]](https://github.com/esg4aspl/esg-engine) [[models]](https://github.com/esg4aspl/comparison-of-event-based-modeling-approaches)
 
 2. Ufuktepe E., Tuglular T., Palaniappan K., "Tracking Code Bug Fix Ripple Effects based on Change Patterns Using Markov Chain Models", IEEE Transactions on Reliability, 2022 [[pdf]](/paper/2022_IEEETR_Tracking_Code_Bug_Fix_Ripple_Effects_Based_on_Change_Patterns_Using_Markov_Chain_Models.pdf)[[source code]](https://github.com/ekincanufuktepe/change-instepector-java)
 
@@ -58,7 +60,13 @@ author: Ekincan Ufuktepe
 
 #### International Conference and Workshop Papers
 
-15. Saketh Poduvu, Sayed M Saghaian, Ekincan Ufuktepe, Alicia Esquivel Morel, Prasad Calyam, Risk-based Zero Trust Scale for Tactical Edge Network Environments, ACM/IEEE Symposium on Edge Computing, 2023
+18. Cope, N., Batan, Y., Ufuktepe, E., Calyam, P., Palaniappan, K., "Graph-Based Code Change Representations for Identifying Security Fixes in Source Code", IEEE International Conference on Software Quality, Reliability and Security (QRS), 2026, [[pdf]]()[[source code]](https://github.com/CIVA-Lab/VulFixNet)
+
+17. Ufuktepe, E., Kavzak Ufuktepe, D., Ries, J., "Empowering Student Agency and Engagement through Gamified Debugging and Flexible Assessment Design in Introductory Programming", American Society for Engineering Education (ASEE), 2026, [[pdf]]()
+
+16. Dizon, J., Kwon, L., Hicks, C., Ufuktepe, E., Calyam, P., Palaniappan, K., "InfectPrompt: Inducing Vulnerabilities in C/C++ Functions Using LLMs for GNN-Based Vulnerability Detection", IEEE International Conference on Data Mining Workshops (ICDMW), 2025, [[pdf]]()[[source code]](https://github.com/sqam-lab/ResourceVul)
+
+15. Poduvu, S., Saghaian S. M., Ufuktepe, E., Esquivel Morel, A., Calyam, P., "Risk-based Zero Trust Scale for Tactical Edge Network Environments", ACM/IEEE Symposium on Edge Computing, 2023, [[pdf]]()
 
 14. Esquivel A., Ufuktepe E., Grant C., Elfrink S., Qu C., Calyam P. Palaniappan K., "Trust Quantification in a Collaborative Drone System with Intelligence-driven Edge Routing", IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023, [[pdf]]()[[source code]]()
 
